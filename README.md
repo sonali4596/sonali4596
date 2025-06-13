@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali4596&label=Profile%20views&color=0e75b6&style=flat" alt="sonali4596" /> </p>
 
-- 🌱 I’m currently learning **Angular ,C#**
+- 🌱 I’m currently learning **AWS ,React**
 
 - 📝 I regularly write articles on [https://medium.com/@sonalianmol45](https://medium.com/@sonalianmol45)
 
 - 💬 Ask me about **Javascript ,Jquery,Python,C#**
 
-- 📫 How to reach me **Sonalianmol4596@gmail.com**
+- 📫 How to reach me **renusinha4596@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uvavGZ_Qwy1u11HeiNp8FpgInR4RFvTe/view?usp=sharing](https://drive.google.com/file/d/1uvavGZ_Qwy1u11HeiNp8FpgInR4RFvTe/view?usp=sharing)
 
