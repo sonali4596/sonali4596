@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript ,Jquery,Python,C#**
 
-- 📫 How to reach me **renusinha4596@gmail.com**
+- 📫 How to reach me **sonalianmol4596@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uvavGZ_Qwy1u11HeiNp8FpgInR4RFvTe/view?usp=sharing](https://drive.google.com/file/d/1uvavGZ_Qwy1u11HeiNp8FpgInR4RFvTe/view?usp=sharing)
 
