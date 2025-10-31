@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sonalianmol45](https://medium.com/@sonalianmol45)
 
-- 💬 Ask me about **Javascript ,Jquery,Python,C#**
+- 💬 Ask me about **Javascript ,React,Python,Java**
 
 - 📫 How to reach me **sonalianmol4596@gmail.com**
 
